@@ -1,3 +1,5 @@
+//make some changes based on DISJ2.c
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
